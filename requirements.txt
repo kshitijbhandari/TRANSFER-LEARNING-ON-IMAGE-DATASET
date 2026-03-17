@@ -1,0 +1,10 @@
+tensorflow==2.9.2
+numpy
+pandas
+Pillow
+matplotlib
+scikit-learn
+jupyter
+tensorboard
+keras-preprocessing
+kaggle
